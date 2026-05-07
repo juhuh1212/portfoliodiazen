@@ -32,6 +32,6 @@ Tools Used:
 HTML, CSS, JavaScript
 
 ### CONTACT INFORMATION
-📧 [diazeenjanrii@gmail.com]
+📧 [diazenjanrii@gmail.com]
 📞 [+639623965680]
 📍 [Sison, Pangasinan, Philippines]
